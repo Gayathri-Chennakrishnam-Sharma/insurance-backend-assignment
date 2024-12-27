@@ -1,7 +1,7 @@
 {
   "name": "insurance-backend-assignment",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "jest --watchAll"

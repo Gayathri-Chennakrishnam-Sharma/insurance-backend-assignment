@@ -1,22 +1,16 @@
-# admin-app-backend
+# Insurance-backend
 
-Admin app backend with Node JS, Express JS.
+Admin app backend with Node JS, Express JS, PostgreSQL, Sequelize.
 
 Run Project :
 `npm start`
 
-Check and Fix es-lint and prettier issues in one command:
-`npm format`
+Run unit test cases:
+`npm test`
 
-Check and Fix issues individually:
-Check prettier issues :
-`npm format:check`
+Stored Procedure:
+navigate to src->db->sql folder
 
-Fix prettier issues :
-`npm format:write`
+API endpoints tested in postman :
+https://www.postman.com/solar-rocket-680024/workspace/insurance-assignment-admin/collection/15357717-9e2eb7c4-121d-488e-a175-e9efe0a58c49?action=share&creator=15357717
 
-Check lint issues :
-`npm lint:check`
-
-Fix lint issues :
-`npm lint:fix`
